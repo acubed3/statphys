@@ -1,18 +1,20 @@
-# Quartz v4
+# Статфиз ФОПФ
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+>  “Ludwig Boltzmann, who spent much of his life studying statistical mechanics, died in 1906, by his own hand. Paul Ehrenfest, carrying on the work, died similarly in 1933. Now it is our turn to study statistical mechanics.” 
+>
+> David L. Goodstein, States of Matter 
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+### Все самое важное
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- 2 задания + 2 КР + тесты на лекциях (*тесты весят много, надо их писать!*)
+- Ориентировочные даты КР и сдачи заданий:
+- “Сдать задание” = иметь написанное *полностью* задание (кроме задач со звездочкой) + понимать что написано + уметь решать *простые* задачи
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+### Литература
 
-## Sponsors
+- Лекции лектора + книжка по лекциям
+- 5-ый и 9-ый том ЛЛ
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+| Семинар | Дата       | Тема                                 | Конспект | Задачи | Опечатки |
+| ------- | ---------- | ------------------------------------ | -------- | ------ | -------- |
+| 1       | 7 сентября | Эргодичность в статистической физике |          |        |          |
